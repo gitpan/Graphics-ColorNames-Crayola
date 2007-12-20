@@ -9,7 +9,7 @@ WriteMakefile
           'VERSION_FROM' => 'lib/Graphics/ColorNames/Crayola.pm',
           'PREREQ_PM' => {
                            'Test::More' => 0,
-                           'Graphics::ColorNames' => '1.01'
+                           'Graphics::ColorNames' => '2.10'
                          }
         )
 ;
